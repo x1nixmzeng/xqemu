@@ -1,9 +1,9 @@
 [submodule "roms/vgabios"]
 	path = roms/vgabios
-	url = http://git.qemu.org/vgabios.git/
+	url = http://git.qemu.org/vgabios.git
 [submodule "roms/seabios"]
 	path = roms/seabios
-	url = http://git.qemu.org/seabios.git/
+	url = http://git.qemu.org/seabios.git
 [submodule "roms/SLOF"]
 	path = roms/SLOF
 	url = http://git.qemu.org/SLOF.git
@@ -21,7 +21,7 @@
 	url = http://git.qemu.org/sgabios.git
 [submodule "pixman"]
 	path = pixman
-	url = http://anongit.freedesktop.org/pixman
+	url = http://anongit.freedesktop.org/git/pixman.git
 [submodule "dtc"]
 	path = dtc
 	url = http://git.qemu.org/dtc.git
